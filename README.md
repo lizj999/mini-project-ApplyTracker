@@ -25,3 +25,46 @@ An AI-powered dashboard for high-volume job seekers. Features include automated 
 - **Smart Parse**: Paste a URL, and the AI extracts Company, Role, and "Pain Points."
 - **Skill Sync**: Automatically highlights your DePaul CS skills (Python/Java) in job posts.
 - **Ghost Filter**: Toggles off inactive applications older than 30 days.
+
+🚀 Getting Started for Collaborators
+Follow these steps to get the project running on your local machine.
+
+1. Clone the Repository
+Bash
+git clone <your-repo-url-here>
+cd ApplyTracker
+2. Backend Setup (FastAPI)
+Navigate to backend: cd backend
+
+Create a Virtual Environment: * Mac/Linux: python3 -m venv venv
+
+Windows: python -m venv venv
+
+Activate the Environment:
+
+Mac/Linux: source venv/bin/activate
+
+Windows: venv\Scripts\activate
+
+Install Dependencies: pip install -r requirements.txt
+
+Configure API Keys:
+
+Create a new file named .env inside the backend/ folder.
+
+Add your Together AI key: TOGETHER_API_KEY=your_actual_key_here
+
+Note: This file is ignored by Git to keep our keys safe.
+
+Start the Server: uvicorn main:app --reload
+
+The backend will automatically create a fresh apply_tracker.db file for you on the first run.
+
+3. Frontend Setup (React + Vite)
+Open a new terminal and navigate to frontend: cd frontend
+
+Install Dependencies: npm install
+
+Start the Development Server: npm run dev
+
+Access the App: Open the URL provided in the terminal (usually http://localhost:5173).
