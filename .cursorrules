@@ -1,0 +1,14 @@
+# ApplyTracker Project Rules
+
+## Project Vision
+ApplyTracker is an intelligent job search manager that uses Together AI for discovery and semantic analysis.
+
+## Technical Stack
+- Backend: FastAPI (Uvicorn)
+- Frontend: React (Tailwind CSS)
+- AI: Together AI (Llama-3.3-70B-Instruct-Turbo)
+
+## Core Guidelines
+- Use modular structure (separate service files for AI logic).
+- Follow the Kanban stages: Discovery, Applied, Interviewing, Offer, Rejected.
+- Always load API keys from a .env file.

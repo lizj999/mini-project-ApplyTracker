@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fallback so theme toggle always has a visible effect (Tailwind dark: uses .dark on html) */
+html.dark {
+  color-scheme: dark;
+}
+html.dark,
+html.dark body,
+html.dark #root {
+  background-color: #020617; /* slate-950 */
+}
+html:not(.dark) body,
+html:not(.dark) #root {
+  background-color: #f1f5f9; /* slate-100 */
+}

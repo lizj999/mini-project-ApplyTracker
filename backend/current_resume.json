@@ -1,0 +1,38 @@
+{
+  "raw_text": "Lizbeth\n \nJaramillo\n \n1211  Glendale  St  Bensenville,  IL  60106  (708)  527-2285  lizjaramillo8174@gmail.com  \nSkills\n \n-  Communication   -  Teamwork/Collaboration  -  Problem-solving  abilities  -  Python  -  Java  -  C  -  Computer  Literate  -  Microsoft/Outlook  -  Excel  \nEducation\n \nSEPTEMBER  2022  -  JUNE  2026  \nDePaul\n \nUniversity,\n \nChicago,\n \nIL\n \n-\n \nBachelor\u2019s\n \nof\n \nComputer\n \nScience\n \nRelevant  Classes:   \n-  CSC  241  -  INTRO  TO  COMPUTER  SCIENCE  I  ( Python )  -  CSC  242  -  INTRO  TO  COMPUTER  SCIENCE  II  ( Python )   -  CSC  300  -  DATA  STRUCTURES  I  (Java)  -  CSC  301  -  DATA  STRUCTURES  II  ( Java )  -  CSC  373  -  COMPUTER  SYSTEMS  I  (C  Language)  -  CSC  321  -  DESIGN  ANALYSIS  &  ALGORITHMS  \nExperience\n \n APRIL  2024-Present  \nAlo\n \nYoga,\n \nOakbrook,\n \nIL\n \n-\n \nSales\n \nAssociate/Operations\n \nAssociate\n \n \n\u25cf  Provide  positive  customer  experience  with  fair,  friendly,  and  courteous  service  \u25cf  Registers  sales  on  a  cash  register  by  scanning  items,  itemizing  and  totaling  customers'  \npurchases\n \u25cf  Pitch  and  sell  clothing  items  to  customer  in  an  informational  and  genuine  way  \u25cf  Organize  back  stock  room  to  keep  ef\ufb01ciency  between  Sales  Floor  and  Stock  Room  \u25cf  Replenish  the  Sales  Floor  every  hour  with  products  that  are  being  bought  \nAUGUST  2021  -  APRIL  2024  \nMariano\u2019s,\n \nElmhurst,\n \nIL\n \n-\n \nFront\n \nEnd\n \nAssociate\n \n \n2  \n\u25cf  Provide  positive  customer  experience  with  fair,  friendly,  and  courteous  service  \u25cf  Registers  sales  on  a  cash  register  by  scanning  items,  itemizing  and  totaling  customers'  \npurchases\n \u25cf  Quickly  shop  for  online  pickup  orders  and  distribute  to  customer  effectively  \nSEPTEMBER  2022  -  JUNE  2023  \nDePaul\n \nEducation\n \nand\n \nDevelopment\n \nGrant\n \nfor\n \nEmployability\n \n(EDGE)\n \nProgram,\n \nChicago,\n \nIL\n \n-\n \nTeam\n \nMember\n \nof\n \nOffice\n \nof\n \nAdmissions\n \n\u25cf  Gain  experience  and  develop  self-knowledge  about  jobs  and  careers  \u25cf  Participate  in  meaningful  projects  that  contribute  to  the  university  \u25cf  Develop  important  money  management  skills  \nAwards\n -  Illinois  State  Scholar  Award  -  Principal\u2019s  Award  -  Presidential  Award  for  Educational  Achievement  -  Board  of  Education  Fenton  Scholar  Award",
+  "resume_data": {
+    "name": "Lizbeth Jaramillo",
+    "target_roles": [
+      "Software Developer",
+      "Data Analyst"
+    ],
+    "skills": [
+      "Communication",
+      "Teamwork/Collaboration",
+      "Problem-solving",
+      "Python",
+      "Java",
+      "C",
+      "Computer Literate",
+      "Microsoft/Outlook",
+      "Excel"
+    ],
+    "experience": [
+      {
+        "company": "Alo Yoga",
+        "role": "Sales Associate/Operations Associate",
+        "highlights": "Provide positive customer experience, register sales, pitch and sell clothing items, organize back stock room, replenish sales floor"
+      },
+      {
+        "company": "Mariano\u2019s",
+        "role": "Front End Associate",
+        "highlights": "Provide positive customer experience, register sales, quickly shop for online pickup orders"
+      },
+      {
+        "company": "DePaul Education and Development Grant for Employability (EDGE) Program",
+        "role": "Team Member of Office of Admissions",
+        "highlights": "Gain experience, develop self-knowledge, participate in meaningful projects, develop money management skills"
+      }
+    ]
+  }
+}
