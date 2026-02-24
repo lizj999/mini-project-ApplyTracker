@@ -148,7 +148,9 @@ ApplyTracker is a web application with a React SPA frontend and a FastAPI backen
 **Deliverables**
 
 - Short written description (above).
-- Architecture diagram (image required): create a diagram (e.g., Frontend ↔ Backend ↔ AI Service ↔ DB) and add it under `docs/` or `demo/` and link here, or add to Google Drive.
+- **Architecture diagram:**  
+  ![ApplyTracker architecture](architecture-diagram.png)  
+  *(File: [docs/architecture-diagram.png](architecture-diagram.png) in repo)*
 
 ### 8.2 Component Breakdown
 
