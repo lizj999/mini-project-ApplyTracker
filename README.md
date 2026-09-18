@@ -4,7 +4,7 @@ An AI-powered dashboard for high-volume job seekers. Features include automated 
 
 ## 💡 Features
 - **Smart Parse**: Paste a URL, and the AI extracts Company, Role, and "Pain Points."
-- **Skill Sync**: Automatically highlights your DePaul CS skills (Python/Java) in job posts.
+- **Skill Sync**: Automatically highlights your skills (Python/Java) in job posts.
 - **Ghost Filter**: Toggles off inactive applications older than 30 days.
 
 ## 🚀 Getting Started
